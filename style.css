@@ -1,0 +1,36 @@
+body{
+    background: rgba(200, 200, 200, 0.3);
+    margin-left: 80px;
+    margin-right: 100px;
+}
+header{
+    margin-top: 40px;
+}
+b{
+    font-size: 30px;
+}
+h3{
+    font-size: 30px;
+    color: rgba(255,0,0,1);
+}
+
+h2{
+    font-size: 30px;
+    color: rgba(20,20,20,0.8)
+}
+
+p{
+    font-size: 18px;
+}
+
+.img_conf{
+    margin-top:200px;
+    margin-left:30px;
+    width:300px
+}
+.logo{
+    width:120px
+}
+.logo_pixel{
+    width:200px
+}
